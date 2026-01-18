@@ -28,8 +28,8 @@ Pod::Spec.new do |s|
     ss.dependency 'KissXML/Additions'
   end
 
-  s.ios.deployment_target = '8.0'
-  s.osx.deployment_target = '10.9'
-  s.tvos.deployment_target = '9.0'
-  s.watchos.deployment_target = '2.0'
+  s.ios.deployment_target = '15.6'
+  s.osx.deployment_target = '11.5'
+  s.tvos.deployment_target = '15.6'
+  s.watchos.deployment_target = '8.7'
 end
